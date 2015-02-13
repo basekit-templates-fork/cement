@@ -1,14 +1,18 @@
 {
-    "name":"Stream Market",
-    "thumbnail":"streammarket.png",
-    "screenshot":"streammarket.png",
+    "name":"Cement",
+    "thumbnail":"cement.png",
+    "screenshot":"cement.png",
     "templateType":"standard",
     "pageTypes":["home"],
     "tags": {
-        "en": ["Professional", "Dark", "Clean", "Business", "Professional", "marketing", "agency", "money", "stocks", "elegant", "sophisticated", "media", "sans-serif", "advertising"],
+        "en": ["Professional", "Building", "Clean", "Business", "Professional", "Build", "Builder", "Cement", "Trucks", "Buildings"],
         "es": ["Profesional", "Oscuro", "Limpio", "Corporativo", "Profesional", "marketing", "agencia", "dinero", "stocks", "elegante", "sofisticado", "comunicacion", "sans-serif", "publicidad"],
         "br": ["Profissional", "Escuro", "Limpo", "Corporativo", "Profissional", "marketing", "agência", "dinheiro", "estoques", "elegante", "sofisticado", "mídia", "sans-serif", "publicidade"]
     },
+    "images":[
+        "images/feature-bg.jpg",
+        "images/logo.png"
+    ],
     "colorSwatches":
     {
         "Swatch 1": {
